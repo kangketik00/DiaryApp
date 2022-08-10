@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "822208255164",
+    "firebase_url": "https://ourtour-82f94-default-rtdb.firebaseio.com",
+    "project_id": "ourtour-82f94",
+    "storage_bucket": "ourtour-82f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822208255164:android:51e746b45aa3e5f31cecb9",
+        "android_client_info": {
+          "package_name": "com.makmurjaya.ourtour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822208255164-71bvvpl6v4gfqjvtgdpkugmbv2uhqdll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNQVXf1EVG7UQl14NVXS5E1v2kBxLIjmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822208255164-71bvvpl6v4gfqjvtgdpkugmbv2uhqdll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822208255164:android:b8ad21fe0559dafb1cecb9",
+        "android_client_info": {
+          "package_name": "com.mikhlasnr.diaryapp10119022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822208255164-71bvvpl6v4gfqjvtgdpkugmbv2uhqdll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNQVXf1EVG7UQl14NVXS5E1v2kBxLIjmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822208255164-71bvvpl6v4gfqjvtgdpkugmbv2uhqdll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
